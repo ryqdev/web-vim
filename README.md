@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Web Vim
+
+<img width="1472" alt="image" src="https://github.com/user-attachments/assets/c58d7e14-8360-4aea-895c-0be34b650806">
 
 ## Getting Started
 
