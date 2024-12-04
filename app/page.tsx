@@ -37,7 +37,7 @@ export default function Home() {
 
     return (
         <div className="h-screen bg-gray-800 flex justify-center items-center">
-            <div id="editor" ref={editorRef} className="w-full h-full max-w-4xl p-4 bg-white"  />
+            <div id="editor" ref={editorRef} className="w-full h-full max-w-4xl p-4 bg-white flex-grow overflow-auto"  />
         </div>
     );
 }
