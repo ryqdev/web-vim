@@ -27,7 +27,7 @@ export default function Home() {
     useEffect(() => {
         if (editorRef.current) {
             // Get saved content from localStorage or use default
-            const savedContent = localStorage.getItem(STORAGE_KEY) || "Hello Web-Vim!";
+            const savedContent = localStorage.getItem(STORAGE_KEY);
 
             const state = EditorState.create({
                 doc: savedContent,
